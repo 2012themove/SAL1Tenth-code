@@ -11,12 +11,12 @@ Package for the SAL1Tenth cars. Supports all new cars added to the SAL Lab
 - pose_list_car2.txt: edit the path of car2
 
 ## Data flow
-![Dataflow](Dataflow.png)
+![Dataflow](images/Dataflow.png)
 
 ## Node tree and Graph
-![NodeTree](NodeTree.png)
+![NodeTree](images/NodeTree.png)
 
-![NodeGraph](NodeGraph.png)
+![NodeGraph](images/NodeGraph.png)
 
 ## Car Path
-![CarPath](CarPath.png)
+![Car1Path](images/Car1Path.png)
