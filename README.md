@@ -1,5 +1,5 @@
 # SAL1Tenth-code
-Package for the SAL1Tenth cars. Supports all new cars added to the SAL Lab
+Package for the SAL1Tenth cars. Supports all new cars added to the SAL Lab. Unload packages into src folder and build.
 
 ## Launch files
 - simulation_demo.launch.py: launches simulation demo for two cars in rviz simulation
